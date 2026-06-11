@@ -253,5 +253,5 @@ A versão mais recente estará sempre disponível no site da Discloud.
 
 Dúvidas relacionadas à privacidade podem ser encaminhadas para:
 
-[privacy@discloud.com](mailto:abuse@discloudbot.com)
+[abuse@discloud.com](mailto:abuse@discloudbot.com)
 
