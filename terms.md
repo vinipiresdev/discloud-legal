@@ -177,3 +177,81 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 `17.7` Os Termos, e o relacionamento entre a Discloud conforme os Termos, serão regidos pelas leis do Estado da Flórida, EUA, independentemente do conflito de cláusulas legais. Você e Discloud concordam em submeter exclusivamente aos tribunais federais localizados no condado de Orange, EUA, a resolução de quaisquer questões legais resultantes dos Termos.
 
 `17.8` Nenhuma das partes poderá ceder nenhum dos seus direitos ou obrigações destes Termos, seja por força de lei ou de outra forma, sem o prévio consentimento por escrito da outra parte (para não ser omisso). Não obstante, qualquer das partes pode atribuir a totalidade dos seus direitos e obrigações ao abrigo destes Termos, sem o consentimento da outra parte, a sua filial ou em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todo o seu ativos não envolvendo um concorrente direto da outra parte.
+
+
+# Política de Privacidade
+
+## 1. Introdução
+
+A Discloud respeita sua privacidade e está comprometida com a proteção dos seus dados pessoais.
+
+Esta Política explica quais informações coletamos, por que as coletamos e como as utilizamos.
+
+## 2. Dados Coletados
+
+Ao utilizar nossos serviços, podemos coletar:
+
+* Nome de usuário
+* Identificador único da conta (ID)
+* Endereço de e-mail
+* Endereço IP
+* Registros de acesso e autenticação
+
+## 3. Finalidade da Coleta
+
+Os dados são utilizados para:
+
+* Criar e gerenciar sua conta;
+* Fornecer acesso aos serviços da Discloud;
+* Prevenir fraudes, abusos e atividades maliciosas;
+* Garantir a segurança da plataforma;
+* Cumprir obrigações legais quando aplicável;
+* Entrar em contato sobre assuntos relacionados à sua conta.
+
+## 4. Dados Hospedados pelos Clientes
+
+As aplicações hospedadas na Discloud podem armazenar dados definidos pelos próprios clientes.
+
+A Discloud não acessa, monitora ou utiliza esses dados, exceto quando necessário para garantir a segurança, estabilidade da plataforma ou cumprimento de obrigações legais.
+
+O cliente é responsável pelos dados armazenados em suas aplicações e pelo cumprimento das leis aplicáveis.
+
+## 5. Compartilhamento de Dados
+
+A Discloud não vende dados pessoais.
+
+Os dados poderão ser compartilhados apenas:
+
+* Quando exigido por lei;
+* Mediante ordem judicial;
+* Para investigação de fraudes, abusos ou incidentes de segurança.
+
+## 6. Armazenamento e Segurança
+
+Adotamos medidas técnicas e organizacionais para proteger os dados contra acesso não autorizado, alteração, divulgação ou destruição indevida.
+
+## 7. Retenção de Dados
+
+Os dados poderão ser mantidos enquanto a conta permanecer ativa ou pelo período necessário para cumprimento de obrigações legais, prevenção de fraudes e resolução de disputas.
+
+## 8. Direitos do Usuário
+
+Nos termos da legislação aplicável, você pode solicitar:
+
+* Acesso aos seus dados;
+* Correção de informações incorretas;
+* Exclusão de dados quando legalmente possível;
+* Informações sobre o tratamento realizado.
+
+## 9. Alterações desta Política
+
+Esta Política poderá ser atualizada periodicamente.
+
+A versão mais recente estará sempre disponível no site da Discloud.
+
+## 10. Contato
+
+Dúvidas relacionadas à privacidade podem ser encaminhadas para:
+
+[privacy@discloud.com](mailto:abuse@discloudbot.com)
+
