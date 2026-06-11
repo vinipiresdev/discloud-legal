@@ -179,3 +179,89 @@ If you have any questions about this document, please contact us at [support@dis
 `17.7` The Terms, and the relationship between Discloud and the Terms, will be governed by the laws of the State of Florida, USA, regardless of conflict of legal clauses. You and Discloud agree to submit exclusively to federal courts located in Orange County, USA for resolution of any legal issues arising from the Terms.
 
 `17.8` Neither party may assign any of its rights or obligations under these Terms, whether by operation of law or otherwise, without the prior written consent of the other party (not to be unreasonably withheld). Notwithstanding, either party may assign all of its rights and obligations under these Terms without the consent of the other party to its affiliate or in connection with a merger, acquisition, corporate reorganization or sale of all or substantially all its assets not involving a direct competitor of the other party.
+
+# Privacy Policy
+
+## 1. Introduction
+
+Discloud respects your privacy and is committed to protecting your personal data.
+
+This Policy explains what information we collect, why we collect it, and how we use it.
+
+## 2. Data Collected
+
+When using our services, we may collect:
+
+* Username
+* Unique account identifier (ID)
+* Email address
+* IP address
+* Access and authentication logs
+
+## 3. Purpose of Collection
+
+The data is used to:
+
+* Create and manage your account;
+
+* Provide access to Discloud services;
+
+* Prevent fraud, abuse, and malicious activity;
+
+* Ensure platform security;
+
+* Comply with legal obligations when applicable;
+
+* Contact you regarding matters related to your account.
+
+## 4. Data Hosted by Clients
+
+Applications hosted on Discloud may store data defined by the clients themselves.
+
+Discloud does not access, monitor, or use this data, except when necessary to ensure the security and stability of the platform or to comply with legal obligations.
+
+The client is responsible for the data stored in their applications and for compliance with applicable laws.
+
+## 5. Data Sharing
+
+Discloud does not sell personal data.
+
+Data may only be shared:
+
+* When required by law;
+
+* By court order;
+
+* For the investigation of fraud, abuse, or security incidents.
+
+## 6. Storage and Security
+
+We adopt technical and organizational measures to protect data against unauthorized access, alteration, disclosure, or improper destruction.
+
+## 7. Data Retention
+
+Data may be retained while the account remains active or for the period necessary to comply with legal obligations, prevent fraud, and resolve disputes.
+
+## 8. User Rights
+
+Under applicable law, you may request:
+
+* Access to your data;
+
+* Correction of incorrect information;
+
+* Data deletion when legally possible;
+
+* Information about the processing performed.
+
+## 9. Changes to this Policy
+
+This Policy may be updated periodically.
+
+The most recent version will always be available on the Discloud website.
+
+## 10. Contact
+
+Privacy-related questions can be sent to:
+
+[privacy@discloud.com](mailto:abuse@discloudbot.com)
