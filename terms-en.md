@@ -185,7 +185,6 @@ If you have any questions about this document, please contact us at [support@dis
 ## 1. Introduction
 
 Discloud respects your privacy and is committed to protecting your personal data.
-
 This Policy explains what information we collect, why we collect it, and how we use it.
 
 ## 2. Data Collected
@@ -203,13 +202,9 @@ When using our services, we may collect:
 The data is used to:
 
 * Create and manage your account;
-
 * Provide access to Discloud services;
-
 * Prevent fraud, abuse, and malicious activity;
-
 * Ensure platform security;
-
 * Comply with legal obligations when applicable;
 
 * Contact you regarding matters related to your account.
@@ -217,23 +212,17 @@ The data is used to:
 ## 4. Data Hosted by Clients
 
 Applications hosted on Discloud may store data defined by the clients themselves.
-
 Discloud does not access, monitor, or use this data, except when necessary to ensure the security and stability of the platform or to comply with legal obligations.
-
 The client is responsible for the data stored in their applications and for compliance with applicable laws.
-
 ## 5. Data Sharing
 
 Discloud does not sell personal data.
-
 Data may only be shared:
 
 * When required by law;
-
 * By court order;
-
 * For the investigation of fraud, abuse, or security incidents.
-
+* 
 ## 6. Storage and Security
 
 We adopt technical and organizational measures to protect data against unauthorized access, alteration, disclosure, or improper destruction.
@@ -247,17 +236,13 @@ Data may be retained while the account remains active or for the period necessar
 Under applicable law, you may request:
 
 * Access to your data;
-
 * Correction of incorrect information;
-
 * Data deletion when legally possible;
-
 * Information about the processing performed.
 
 ## 9. Changes to this Policy
 
 This Policy may be updated periodically.
-
 The most recent version will always be available on the Discloud website.
 
 ## 10. Contact
