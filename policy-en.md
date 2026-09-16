@@ -66,7 +66,9 @@ When using the Services, you agree not to:
 
 `3.11` interfere with normal use of the Services by other users or with the stability of Discloud's infrastructure.
 
-`3.12` Breach of the security rules above may result in immediate suspension, account deletion, and, where applicable, referral to the competent authorities.
+`3.12` host, run, train, or perform inference with machine learning or artificial intelligence scripts, models, or applications, regardless of the language, framework, library, or purpose used.
+
+`3.13` Breach of the security rules above may result in immediate suspension, account deletion, and, where applicable, referral to the competent authorities.
 
 ## 4. Enforcement of this Policy
 
