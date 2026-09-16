@@ -75,7 +75,7 @@ By using the Services, you are entering into a contract with the legal entity id
 
 ## 7. Refunds
 
-`7.1` **Right of withdrawal.** For consumers subject to the Brazilian Consumer Protection Code, Discloud honors the right of withdrawal for contracts entered into outside a commercial establishment, within the legal period of 7 (seven) days from the date of contracting, with a refund of amounts paid, where applicable.
+`7.1` **Review of requests.** Refund requests will be reviewed in accordance with applicable consumer law, the user's country of residence, the terms of the contract, and the specific conditions of the service. Customers in Brazil, for example, are subject to the Brazilian Consumer Protection Code (CDC).
 
 `7.2` **How to request.** A request may be made through the support channel, by e-mail, or, where available, directly through the Dashboard, providing the information necessary to identify the contract.
 
