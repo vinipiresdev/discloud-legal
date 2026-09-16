@@ -75,7 +75,7 @@ Ao usar os Serviços, você contrata com a pessoa jurídica acima identificada, 
 
 ## 7. Reembolso
 
-`7.1` **Direito de arrependimento.** Para consumidores sujeitos ao Código de Defesa do Consumidor, a Discloud respeita o direito de arrependimento em contratações realizadas fora do estabelecimento comercial, no prazo legal de 7 (sete) dias contados da contratação, com devolução dos valores pagos, quando aplicável.
+`7.1` **Análise dos pedidos.** As solicitações de reembolso serão analisadas de acordo com a legislação aplicável ao consumidor, seu país de residência, os termos da contratação e as condições específicas do serviço. Clientes no Brasil, por exemplo, estão sujeitos ao Código de Defesa do Consumidor (CDC).
 
 `7.2` **Como solicitar.** O pedido pode ser feito pelo canal de suporte, por e-mail ou, quando disponível, diretamente pelo Dashboard, informando os dados necessários para localizar a contratação.
 
