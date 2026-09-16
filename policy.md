@@ -66,7 +66,9 @@ Ao usar os Serviços, você concorda em não:
 
 `3.11` interferir no uso normal dos Serviços por outros usuários ou na estabilidade da infraestrutura da Discloud.
 
-`3.12` O descumprimento das regras de segurança acima pode acarretar suspensão imediata, exclusão da conta e, quando aplicável, comunicação às autoridades competentes.
+`3.12` hospedar, executar, treinar ou realizar inferência de scripts, modelos ou aplicações de aprendizado de máquina (machine learning) ou de inteligência artificial, independentemente da linguagem, framework, biblioteca ou finalidade utilizada.
+
+`3.13` O descumprimento das regras de segurança acima pode acarretar suspensão imediata, exclusão da conta e, quando aplicável, comunicação às autoridades competentes.
 
 ## 4. Aplicação desta Política
 
